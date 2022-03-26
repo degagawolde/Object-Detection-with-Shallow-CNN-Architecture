@@ -1,2 +1,2 @@
 # Object-Detection-with-Shallow-CNN-Architecture
-Shallow CNN architecture is a deep learning model with a few layer of CNN and FC.</b>
+A convolutional neural network (CNN/ConvNet) is deep neural networks, most commonly applied for computer vision tasks.</b> It uses a special technique called Convolution, a mathematical operation on two functions that produces a third function that expresses how the shape of one is modified by the other.
